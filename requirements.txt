@@ -1,4 +1,5 @@
 ### Specify any required python packages here:
-os.system
+os==3.2
+os_3.2
 #numpy==1.14.5
 #GLIBCXX_3.4.29
